@@ -1,37 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://xiangmomo.github.io/blog.github.io/</id>
+    <id>https://xiangmomo.github.io</id>
     <title>MomoBlog</title>
-    <updated>2021-07-09T07:50:05.559Z</updated>
+    <updated>2021-07-09T08:07:12.717Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://xiangmomo.github.io/blog.github.io/"/>
-    <link rel="self" href="https://xiangmomo.github.io/blog.github.io/atom.xml"/>
+    <link rel="alternate" href="https://xiangmomo.github.io"/>
+    <link rel="self" href="https://xiangmomo.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://xiangmomo.github.io/blog.github.io/images/avatar.png</logo>
-    <icon>https://xiangmomo.github.io/blog.github.io/favicon.ico</icon>
+    <logo>https://xiangmomo.github.io/images/avatar.png</logo>
+    <icon>https://xiangmomo.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, MomoBlog</rights>
     <entry>
-        <title type="html"><![CDATA[hi]]></title>
-        <id>https://xiangmomo.github.io/blog.github.io/post/hi/</id>
-        <link href="https://xiangmomo.github.io/blog.github.io/post/hi/">
-        </link>
-        <updated>2021-07-09T07:40:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>--ss</p>
-<blockquote>
-<p>sdsafafs</p>
-</blockquote>
-]]></summary>
-        <content type="html"><![CDATA[<p>--ss</p>
-<blockquote>
-<p>sdsafafs</p>
-</blockquote>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://xiangmomo.github.io/blog.github.io/post/hello-gridea/</id>
-        <link href="https://xiangmomo.github.io/blog.github.io/post/hello-gridea/">
+        <id>https://xiangmomo.github.io/post/hello-gridea/</id>
+        <link href="https://xiangmomo.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
