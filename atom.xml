@@ -1,30 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xiangmomo.github.io</id>
-    <title>MomoBlog</title>
-    <updated>2021-07-09T09:19:41.653Z</updated>
+    <title>墨墨酱的小屋</title>
+    <updated>2021-07-12T09:25:11.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xiangmomo.github.io"/>
     <link rel="self" href="https://xiangmomo.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://xiangmomo.github.io/images/avatar.png</logo>
     <icon>https://xiangmomo.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, MomoBlog</rights>
+    <rights>All rights reserved 2021, 墨墨酱的小屋</rights>
     <entry>
         <title type="html"><![CDATA[hi]]></title>
         <id>https://xiangmomo.github.io/post/hi/</id>
         <link href="https://xiangmomo.github.io/post/hi/">
         </link>
         <updated>2021-07-09T07:40:30.000Z</updated>
-        <summary type="html"><![CDATA[<p>--ss</p>
-<blockquote>
-<p>sdsafafs</p>
-</blockquote>
+        <summary type="html"><![CDATA[<p>哈喽,感谢你的测试使用</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>--ss</p>
-<blockquote>
-<p>sdsafafs</p>
-</blockquote>
+        <content type="html"><![CDATA[<p>哈喽,感谢你的测试使用</p>
 <!-- more -->
 ]]></content>
     </entry>
